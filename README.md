@@ -58,13 +58,6 @@ dit is mijn scrum board
 
 ## Product 10: Gitflow conventions
 
-Je hebt voor je eigen project in je readme gitflow conventies opgesteld en je hier ook aantoonbaar aan gehouden. 
+Ik heb dit niet toegepast op dit project omdat ik nog niet wist hoe, dus ik gebruik hier een gitflow van een ander project.
 
-De gitflow conventions gaan uit van een extra branch Develop naast de "Master"/"Main". Op de main worden alleen stabiele releases gezet.
-
-Verder worden features op een daarvoor bedoelde feature banch ontwikkeld. Ook kun je gebruik maken van een hotfix brancg vanaf develop.
-
-Leg hier uit welke branches jij gaat gebruiken en wat voor namen je hier aan gaat meegeven. Hoe vaak ga je comitten en wat voor commit messages wil je geven?
-
-Meer info over het gebruiken van gitflow [hier](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
-
+![Screenshot 2024-02-01 133240](https://github.com/Dylano28/TowerDefense/assets/102656781/c3863996-a8db-4cb5-a3c4-14c1d46511c9)
